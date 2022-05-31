@@ -1,0 +1,2 @@
+Levantar DBContext según modelo relacional en sql base de datos
+Scaffold-DbContext "Server=DESKTOP-G1UL5KQ; Database=alex_application; Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/DB
